@@ -28,3 +28,6 @@ next-env.d.ts
 *.pem
 __pycache__/
 *.sql
+
+scripts/main.py
+docker-compose.yml
